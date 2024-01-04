@@ -1,9 +1,11 @@
 # Nicoaccount-Signature
 
-# これは何？
-アカウント作成時等に必要なハッシュ値
+# What is this?
+
+Hash value required for account creation, etc.
 
 # Using
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate
@@ -12,5 +14,6 @@ python main.py
 ```
 
 # Contact
+
 - Discord: qoo.nyan
 - Matrix: @qoo.nyan:usesarchbtw.lol
