@@ -4,8 +4,6 @@
 
 Hash value required for account creation, etc.
 
-# Using
-
 ```bash
 python -m venv .venv
 source .venv/bin/activate
